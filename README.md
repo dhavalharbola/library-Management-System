@@ -5,5 +5,5 @@ Admin can also add a book, can issue a book to student for seven days.
 
 
 
-Technology- Python 
+Technology- Python ,
 Database-MySql.
